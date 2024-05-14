@@ -28,7 +28,7 @@ With this description, let's start our collaboration! 😊
 The languages and tools that we spend our time together:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;(https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
