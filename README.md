@@ -1,9 +1,21 @@
-# I AM ZAKARYA 👋
-I am a front-end developer and I am fluent in JavaScript, React library, and Next.js framework, I also have complete mastery in designing with frameworks such as Tailwind and Bootstrap, Material UI and Chakra UI packages, etc.
-I am currently learning typescript to design and develop higher-quality web applications.
-I'm glad you follow me, good friend 🤗, let's get to know each other better.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](www.linkedin.com/in/zakarya-hasan-zadah-841243266)
+#Zakarya : Front-End developer
+
+## About Me
+I am a front-end developer who loves combining art and technology. I have experience with TypeScript, JavaScript, React, and Next.js. I can integrate these technologies with design systems such as Chakra, Material, Tailwind, and Bootstrap.
+
+## My Goals
+- Create high-quality work that is also visually appealing like an art piece.
+- Enhance user experience and develop websites and applications.
+
+## Contact Me
+If you're interested in collaborating, feel free to reach out. I'm always looking for exciting and challenging projects.
+
+---
+
+With this description, let's start our collaboration! 😊
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](www.linkedin.com/in/pwzakarya)
 [![Telegram](https://img.shields.io/badge/telegram-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/ProgrammingWithZakarya)
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:hasanzadahzakarya@gmail.com)
 
