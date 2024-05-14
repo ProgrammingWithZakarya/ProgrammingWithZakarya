@@ -26,7 +26,7 @@ With this description, let's start our collaboration! 😊
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=alin11&theme=algolia" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alin11&layout=compact&theme=algolia" height="180" /> -->
 
 The languages and tools that we spend our time together:
-
+<div style="display : flex ; gap : 10px;">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -45,7 +45,7 @@ The languages and tools that we spend our time together:
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
+</div>
 
 
 
