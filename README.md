@@ -1,5 +1,5 @@
 
-#Zakarya : Front-End developer
+# Zakarya : Front-End developer
 
 ## About Me
 I am a front-end developer who loves combining art and technology. I have experience with TypeScript, JavaScript, React, and Next.js. I can integrate these technologies with design systems such as Chakra, Material, Tailwind, and Bootstrap.
