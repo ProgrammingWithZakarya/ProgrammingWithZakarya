@@ -20,7 +20,7 @@ If you're interested in collaborating, feel free to reach out. I'm always lookin
 With this description, let's start our collaboration! 😊
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/pwzakarya)
-[![Telegram](https://img.shields.io/badge/telegram-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/ProgrammingWithZakarya)
+[![Telegram](https://img.shields.io/badge/telegram-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/pw_zakarya)
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:hasanzadahzakarya@gmail.com)
 
 <!--
