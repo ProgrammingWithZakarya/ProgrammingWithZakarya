@@ -2,11 +2,15 @@
 # Zakarya : Front-End developer
 
 ## About Me
-I am a front-end developer who loves combining art and technology. I have experience with TypeScript, JavaScript, React, and Next.js. I can integrate these technologies with design systems such as Chakra, Material, Tailwind, and Bootstrap.
+I am a passionate Front-End Developer with over **2.5 years of experience** in building dynamic, user-centric web applications. My expertise lies in **TypeScript**, **React.js**, and **performance optimization**. I am driven by a strong focus on clean, scalable code and innovative solutions.  
+
+I constantly strive to enhance my skills and stay updated with the latest technologies and industry trends. Whether collaborating in a team or working independently, I am committed to delivering high-quality, efficient solutions that meet both user needs and business goals. You can find my projects and contributions on GitHub, where I enjoy sharing my learning journey and collaborating with other developers.
+
 
 ## My Goals
 - Create high-quality work that is also visually appealing like an art piece.
 - Enhance user experience and develop websites and applications.
+- learning develop native apps
 
 ## Contact Me
 If you're interested in collaborating, feel free to reach out. I'm always looking for exciting and challenging projects.
